@@ -1,18 +1,5 @@
 ## 成為初級資料分析師 | Python 與資料科學應用
 
-### 評分標準
-
-- 一個作業的分數為 20 分
-- 70 分即可獲得證書，作業請上傳至 Google 表單
-- 作業繳交期限為課程結束後一週內，如遇長假期（春節、連假）則順延
-
-### 作業上傳表單
-
-- [312 期假日下午班](https://forms.gle/xrh3SkSV9WszWdMm9)
-- [311 期假日下午班](https://forms.gle/m3C59C9saYFJSHfm7)
-- [309 期寒假密集班](https://goo.gl/forms/S2YXpZxn9JwH2e3E3)
-- [307 期平日夜間班](https://goo.gl/forms/ieo3plwIY8MIF5zm1)
-
 ### 課程互動頻道
 
 <https://www.sli.do>
